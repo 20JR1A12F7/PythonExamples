@@ -87,4 +87,4 @@ def test_leap_year():
         # Chaining comparison operators works for equality just as well.
         if not (a1 == a2 == a3):  # a1 != a2 or a2 != a3:
             return False  # "Tear it down and start again."
-    return True           # "I am pleased where man has been."
+    return True           # 'I am pleased where man has been.'
